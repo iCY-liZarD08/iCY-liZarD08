@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/𝕭𝖑𝖆𝖈𝕶𝕾𝖙4𝕽𝖊𝖟" target="blank"><img src="https://img.shields.io/twitter/follow/𝕭𝖑𝖆𝖈𝕶𝕾𝖙4𝕽𝖊𝖟?logo=twitter&style=for-the-badge" alt="𝕭𝖑𝖆𝖈𝕶𝕾𝖙4𝕽𝖊𝖟" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **maharjanraka2015@gmail.com**
 
@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icy-lizard08&show_icons=true&locale=en" alt="icy-lizard08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icy-lizard08&" alt="icy-lizard08" /></p>
+<img src="https://raw.githubusercontent.com/iCY-liZarD08/iCY-liZarD08/output/snake.svg" alt="Snake animation" />
+
+###
