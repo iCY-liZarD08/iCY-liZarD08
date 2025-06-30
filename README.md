@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raka Maharjan</h1>
-<h3 align="center">Passionate about Full Stack Development</h3>
+<h3 align="center">Passionate about Cloud Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icy-lizard08&label=Profile%20views&color=0e75b6&style=flat" alt="icy-lizard08" /> </p>
 
